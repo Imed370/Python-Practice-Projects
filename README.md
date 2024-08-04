@@ -8,46 +8,46 @@ This repository contains practice projects for the Python programming language.
 
 ### 1.1 Basics 
 - **1.1.1 Data Types:**
-  [Link](/Basic-Concepts/Basics/Data-Types/)  
+  -TODO-  
 
 - **1.1.2 Operators:**
-  [Link](/Basic-Concepts/Basics/Operators/) 
+  -TODO-  
 
 - **1.1.3 Strings:**
-  [Link](/Basic-Concepts/Basics/Strings)  
+  -TODO-   
 
 - **1.1.4 Keywords:**
-  [Link](/Basic-Concepts/Basics/Keywords)  
+  -TODO-  
 
 - **1.1.5 Lists:**
-  [Link](/Basic-Concepts/Basics/Lists)  
+  -TODO-  
 
 - **1.1.6 Tuples:**
-  [Link](/Basic-Concepts/Basics/Tuples)  
+  -TODO-  
 
 - **1.1.7 Dictionaries:**
-  [Link](/Basic-Concepts/Basics/Dictionaries)  
+  -TODO-  
 
 - **1.1.8 Sets:**
-  [Link](/Basic-Concepts/Basics/Sets)  
+  -TODO-  
 
 - **1.1.9 Type Casting:**
-  [Link](/Basic-Concepts/Basics/Type-Casting)  
+  -TODO-  
 
 - **1.1.10 Functions:**
-  [Link](/Basic-Concepts/Basics/Functions)  
+  -TODO-  
 
 - **1.1.11 Lambda Functions:**
-  [Link](/Basic-Concepts/Basics/Lambda-Functions)  
+  -TODO-  
 
 - **1.1.12 File I/O:**
-  [Link](/Basic-Concepts/Basics/File-IO)  
+  -TODO-  
 
 - **1.1.13 Exception Handling:**
-  [Link](/Basic-Concepts/Basics/Exception-Handling)  
+  -TODO-  
 
 - **1.1.14 List Comprehensions:**
-  [Link](/Basic-Concepts/Basics/List-Comprehensions)  
+  -TODO-  
 
 ### 1.2 Data Structures  
 - **1.2.1 Linked Lists:**
